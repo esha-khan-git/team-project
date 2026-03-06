@@ -7,3 +7,4 @@ def login(username, password):
         return "Login Failed"
 
 print(login("admin", "123"))
+print("Version A and Version B merged successfully")
